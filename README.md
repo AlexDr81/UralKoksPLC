@@ -1,1 +1,1 @@
-# UralKoksPLC
+PLC Electrical Schematic in QElectroTech
